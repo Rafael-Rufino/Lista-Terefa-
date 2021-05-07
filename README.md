@@ -1,9 +1,7 @@
 <h3 align="center">
-    <b>CalculadoraIMC</b>  
+    <b>Lista de Tarefas</b>  
     <br>
 </h3>
-
-
 
 
 - [Sobre](#sobre)
@@ -16,7 +14,7 @@
 
 ## :bookmark: Sobre
 
-O <strong>CalculadoraIMC</strong> é uma aplicação que permite calcular o IMC e ver se está com peso corparal ideal.
+O <strong> Lista de Tarefas</strong> é uma aplicação que permite adicionar tarefas do dia a dia e depois finalizar
 
 Essa aplicação foi construída durante o curso <strong> JavaScript e TypeScript do Básico ao avançado </strong> distribuída por  Luiz Otávio Miranda..
 
@@ -55,7 +53,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  git clone https://github.com/Rafael-Rufino/CalculadoraIMC.git
+  git clone  https://github.com/Rafael-Rufino/Lista-Terefa-.git
 ```
 
 
